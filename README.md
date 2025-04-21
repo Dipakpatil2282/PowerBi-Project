@@ -1,6 +1,5 @@
-# PowerBi-Project
+# Super Store Sales Dashboard | Power BI Project
 
-Super Store Sales Dashboard | Power BI Project
 An interactive Power BI dashboard that provides a comprehensive analysis of Super Store sales data. Key features include:
 
 📊 KPIs to track sales, profit, and order performance
